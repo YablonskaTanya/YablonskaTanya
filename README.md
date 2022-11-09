@@ -6,7 +6,7 @@
 - 📙 I’m currently studing English at @English Dom
 
 
-- 🏦 I’m looking looking for an interesting job
+- 🏦 I’m looking for an interesting job
 - 📫 How to reach me t.n.yablonskaya@gmail.com
 
 <!---
