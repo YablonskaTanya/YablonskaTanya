@@ -110,7 +110,6 @@
         style="max-width: 100%"
     /></a>
   </p>
-
   <p dir="auto">
     <a
       target="_blank"
