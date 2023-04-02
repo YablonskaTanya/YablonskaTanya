@@ -1,18 +1,3 @@
-👋  Hi, I’m Tatiana
-
-
-- 💻 I am interesting in everything related to the creation of websites
-- 🌱 I’m currently studing at @GoIT to be a Full Stack Developer 
-- 📙 I’m currently studing English at @English Dom
-
-
-- 🏦 I’m looking for an interesting job
-- 📫 How to reach me t.n.yablonskaya@gmail.com
-
-<!---
-YablonskaTanya/YablonskaTanya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 <article class="markdown-body entry-content container-lg f5" itemprop="text">
   <h3 dir="auto">
     <a
@@ -122,6 +107,20 @@ You can click the Preview link to take a look at your changes.
         alt="Visual Studio Code"
         width="32px"
         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
+        style="max-width: 100%"
+    /></a>
+  </p>
+
+  <p dir="auto">
+    <a
+      target="_blank"
+      rel="noopener noreferrer nofollow"
+      href="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
+      ><img
+        align="left"
+        alt="React"
+        width="32px"
+        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
         style="max-width: 100%"
     /></a>
   </p>
