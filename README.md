@@ -97,7 +97,6 @@
           />
         </a>
       </p>
-
       <p dir="auto">
         <a href="https://git-scm.com/" rel="nofollow">
           <img
