@@ -86,6 +86,20 @@
         </a>
       </p>
       <p dir="auto">
+        <a
+          target="_blank"
+          rel="noopener noreferrer nofollow"
+          href="https://nodejs.org/en"
+          ><img
+            align="left"
+            alt="Node.js"
+            width="40"
+            height="40"
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
+            style="max-width: 100%"
+        /></a>
+      </p>
+      <p dir="auto">
         <a href="https://sass-lang.com" rel="nofollow">
           <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"
@@ -176,3 +190,4 @@
       </p>
     </article>
 
+    
